@@ -1,39 +1,31 @@
-<div align="center">
+# 👋 Hi there! I'm Maria Hanah G. Mendoza
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Maria%20Hanah%20G.%20Mendoza&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Technical%20Writer%20%C2%B7%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+**QA Analyst · UI/UX Designer · Technical Writer · Software Developer**
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hanahmendoza-portfolio.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hanahmendoza78@gmail.com)
+[![Location](https://img.shields.io/badge/Metro%20Manila%2C%20PH-4285F4?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Phone](https://img.shields.io/badge/+63%20927%20631%207620-25D366?style=flat-square&logo=whatsapp&logoColor=white)](#)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hanahmendoza-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanahmendoza78@gmail.com)
-[![Location](https://img.shields.io/badge/Metro%20Manila%2C%20PH-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Phone](https://img.shields.io/badge/+63%20927%20631%207620-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+---
 
-</div>
+## 🧭 About Me
 
-<br/>
+Hi there! I'm Hanah, dedicated to crafting user-friendly, well-tested, and well-documented digital products. I'm a **Cum Laude** graduate of **BS Information Technology** from Mindoro State University (GWA: 1.47), with hands-on experience across the full software development lifecycle — from UI/UX design and front-end development to QA testing, technical documentation, and system administration.
 
-<h2 align="center">🧭 About Me</h2>
+My work blends **design thinking**, **quality assurance rigor**, and **clear technical communication**. I enjoy building user-centered digital products and making sure they work exactly the way they're supposed to before they ship.
 
-<p align="center" width="80%">
+When I'm not designing or testing, you'll find me:
 
-I'm a <b>Cum Laude</b> graduate of <b>BS Information Technology</b> from Mindoro State University (GWA: 1.47), with hands-on experience across the full software development lifecycle — from UI/UX design and front-end development to QA testing, technical documentation, and system administration.
+- 🎬 Directing and editing short films and documentaries
+- 🎨 Taking on freelance branding and graphic design projects
+- 🤖 Reading up on AI-assisted design and QA automation
 
-</p>
+---
 
-<p align="center">
-My work blends <b>design thinking</b>, <b>quality assurance rigor</b>, and <b>clear technical communication</b>. I enjoy building user-centered digital products and making sure they work exactly the way they're supposed to before they ship.
-</p>
+## 🎓 Education
 
-<p align="center">
-Outside of tech, I direct and edit short films and documentaries — a creative outlet that sharpens my eye for visual composition and storytelling, both of which carry directly into my UI/UX work.
-</p>
-
-<br/>
-
-<h2 align="center">🎓 Education</h2>
-
-<table align="center" width="90%">
+<table>
 <tr>
 <td>
 
@@ -52,9 +44,9 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h2 align="center">💼 Experience</h2>
+<h2>💼 Experience</h2>
 
-<table align="center" width="95%">
+<table>
 <tr>
 <td>
 
@@ -85,9 +77,9 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h2 align="center">🛠️ Featured Projects</h2>
+<h2>🛠️ Featured Projects</h2>
 
-<table align="center" width="95%">
+<table>
 
 <tr>
 <th align="left">Project</th>
@@ -150,9 +142,8 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h2 align="center">🧰 Skills</h2>
+<h2>🧰 Skills</h2>
 
-<div align="center">
 
 **Languages & Frameworks**
 
@@ -184,49 +175,42 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
 
-</div>
 
 <br/>
 
-<h3 align="center">🧪 QA & Testing Expertise</h3>
+<h3>🧪 QA & Testing Expertise</h3>
 
-<div align="center">
 
 `Test Case Creation` `Bug Reporting` `Unit Testing` `Integration Testing` `System Testing` `Acceptance Testing`
 `Smoke Testing` `Sanity Testing` `Regression Testing` `End-to-End Testing`
 `Performance Testing` `Load Testing` `Stress Testing` `Security Testing` `Usability Testing`
 `Manual Testing` `Automation Testing`
 
-</div>
 
 <br/>
 
-<h2 align="center">📜 Certifications & Training</h2>
+<h2>📜 Certifications & Training</h2>
 
-<div align="center">
 
 🛡️ Fortinet Certified Associate in Cybersecurity
 🛡️ Fortinet Certified Fundamentals in Cybersecurity
 📊 Certificate in Microsoft Data Analytics
 🐍 CodeChum Python Programming 2
 
-</div>
 
 <br/>
 
-<h2 align="center">🌟 Professional Strengths</h2>
+<h2>🌟 Professional Strengths</h2>
 
-<div align="center">
 
 Detail-Oriented · Documentation-Driven · Collaborative · Iterative Design Thinker · Strong Client Communication · Project Management
 
-</div>
 
 <br/>
 
-<h2 align="center">🎬 Beyond the Code</h2>
+<h2>🎬 Beyond the Code</h2>
 
-<table align="center" width="90%">
+<table>
 <tr>
 <td>
 
@@ -245,16 +229,12 @@ Cinematography, storytelling, and post-production skills that directly inform vi
 
 <br/>
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2>📫 Let's Connect</h2>
 
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hanahmendoza-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanahmendoza78@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
 
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" width="100%"/>
-
-<p align="center"><i>Thanks for stopping by — always open to new opportunities and collaborations!</i></p>
+*Thanks for stopping by — always open to new opportunities and collaborations!*
