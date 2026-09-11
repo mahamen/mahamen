@@ -1,17 +1,16 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A6B&height=200&section=header&text=Maria%20Hanah%20G.%20Mendoza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20%7C%20QA%20Analyst%20%7C%20Technical%20Writer%20%7C%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:121212&height=200&section=header&text=Maria%20Hanah%20G.%20Mendoza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20%7C%20QA%20Analyst%20%7C%20Technical%20Writer%20%7C%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Cum+Laude+BSIT+Graduate+%E2%80%93+GWA+1.47;UI%2FUX+Design+%C2%B7+QA+Testing+%C2%B7+Full-Stack+Development;Detail-Oriented+%C2%B7+Documentation-Driven+%C2%B7+Client-Focused" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=650&lines=Cum+Laude+BSIT+Graduate+%E2%80%93+GWA+1.47;UI%2FUX+Design+%C2%B7+QA+Testing+%C2%B7+Full-Stack+Development;Detail-Oriented+%C2%B7+Documentation-Driven+%C2%B7+Client-Focused" alt="Typing SVG" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-hanahmendoza78%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanahmendoza78@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2E2A6B?style=for-the-badge&logo=vercel&logoColor=white)](https://hanahmendoza-portfolio.vercel.app)
-[![Location](https://img.shields.io/badge/Location-Metro%20Manila%2C%20PH-4B4B4B?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-hanahmendoza78%40gmail.com-1DB954?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanahmendoza78@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-191414?style=for-the-badge&logo=vercel&logoColor=1DB954)](https://hanahmendoza-portfolio.vercel.app)
+[![Location](https://img.shields.io/badge/Location-Metro%20Manila%2C%20PH-191414?style=for-the-badge&logo=googlemaps&logoColor=1DB954)]()
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A6B&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:121212&height=3&width=1000" width="100%"/>
 
 </div>
 
@@ -172,13 +171,13 @@ Bachelor of Science in Information Technology · **Cum Laude**, GWA 1.47 · June
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A6B&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:121212&height=3&width=1000" width="100%"/>
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanahmendoza--portfolio.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://hanahmendoza-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/hanahmendoza78%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanahmendoza78@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanahmendoza--portfolio.vercel.app-1DB954?style=for-the-badge&logo=vercel&logoColor=191414)](https://hanahmendoza-portfolio.vercel.app)
+[![Gmail](https://img.shields.io/badge/hanahmendoza78%40gmail.com-191414?style=for-the-badge&logo=gmail&logoColor=1DB954)](mailto:hanahmendoza78@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A6B,100:6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:1DB954&height=100&section=footer" width="100%"/>
 
 </div>
