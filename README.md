@@ -1,57 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:121212&height=210&section=header&text=Maria%20Hanah%20G.%20Mendoza&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20QA%20Analyst%20%C2%B7%20IT%20Support%20%C2%B7%20Virtual%20Assistant%20%C2%B7%20Graphic%20Designer&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Maria%20Hanah%20G.%20Mendoza&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Technical%20Writer%20%C2%B7%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=21&duration=2800&pause=1000&color=1DB954&center=true&vCenter=true&width=680&lines=Cum+Laude+BSIT+Graduate+%E2%80%93+GWA+1.47;Manual+%2B+Automation+QA+Testing;UI%2FUX+Design+%C2%B7+Technical+Documentation;Detail-Oriented+%C2%B7+Documentation-Driven+%C2%B7+Iterative" alt="Typing SVG" />
+<br/>
 
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/Email-hanahmendoza78%40gmail.com-1DB954?style=for-the-badge&logo=gmail&logoColor=191414)](mailto:hanahmendoza78@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-191414?style=for-the-badge&logo=vercel&logoColor=1DB954)](https://hanahmendoza-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-191414?style=for-the-badge&logo=linkedin&logoColor=1DB954)](https://www.linkedin.com/in/maria-hanah-mendoza-b24301404/)
-[![GitHub](https://img.shields.io/badge/GitHub-mahamen-191414?style=for-the-badge&logo=github&logoColor=1DB954)](https://github.com/mahamen)
-
-<sub>📍 Calapan City · Oriental Mindoro, Philippines &nbsp;&nbsp;|&nbsp;&nbsp; 🟢 Available for Work</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:121212&height=3&width=1000" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hanahmendoza-portfolio.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanahmendoza78@gmail.com)
+[![Location](https://img.shields.io/badge/Metro%20Manila%2C%20PH-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Phone](https://img.shields.io/badge/+63%20927%20631%207620-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
 
 </div>
-<br/>
-
-## 👩‍💻 About Me
-
-I'm a **Cum Laude** BS Information Technology graduate (GWA **1.47**) from Mindoro State University, working across quality assurance, IT support, virtual assistance, and UI/UX design. I've spent the last few years catching bugs before they ship, writing the docs that keep teams aligned, and designing interfaces people actually enjoy using.
-
-Outside of tech, I direct, shoot, and edit short films and documentaries, and shoot personal photography around Oriental Mindoro — creative habits that sharpen the same eye for composition and detail I bring into QA and design work.
 
 <br/>
 
-## 🧭 What I Do
+<h2 align="center">🧭 About Me</h2>
 
-<table>
+<p align="center" width="80%">
+
+I'm a <b>Cum Laude</b> graduate of <b>BS Information Technology</b> from Mindoro State University (GWA: 1.47), with hands-on experience across the full software development lifecycle — from UI/UX design and front-end development to QA testing, technical documentation, and system administration.
+
+</p>
+
+<p align="center">
+My work blends <b>design thinking</b>, <b>quality assurance rigor</b>, and <b>clear technical communication</b>. I enjoy building user-centered digital products and making sure they work exactly the way they're supposed to before they ship.
+</p>
+
+<p align="center">
+Outside of tech, I direct and edit short films and documentaries — a creative outlet that sharpens my eye for visual composition and storytelling, both of which carry directly into my UI/UX work.
+</p>
+
+<br/>
+
+<h2 align="center">🎓 Education</h2>
+
+<table align="center" width="90%">
 <tr>
-<td width="25%" valign="top" align="center">
+<td>
 
-**🛡️ Software QA Analyst**
-<sub>Manual & exploratory testing, test case creation, and bug tracking — making sure what ships actually works.</sub>
+**Mindoro State University** — Calapan, Oriental Mindoro, PH
+*Bachelor of Science in Information Technology* — June 2026
 
-</td>
-<td width="25%" valign="top" align="center">
+🏅 **Cum Laude** — GWA: 1.47
 
-**🎧 IT Admin / Technical Support**
-<sub>Helpdesk support, system administration, and troubleshooting that keep day-to-day operations running.</sub>
+**Coursework:** Software Engineering · Web Development · Database Systems · HCI · Systems Analysis & Design · Systems Integration & Architecture · OOP · Data Structures & Algorithms · Operating Systems · Multimedia Systems
 
-</td>
-<td width="25%" valign="top" align="center">
-
-**🗂️ Virtual Assistant**
-<sub>Data entry, scheduling, appointment setting, and admin support — organized and detail-driven.</sub>
-
-</td>
-<td width="25%" valign="top" align="center">
-
-**🎨 Graphic Designer**
-<sub>UI/UX and visual design across web, branding, and print — from concept to polished mockup.</sub>
+**Capstone Roles:** Technical Writer · UI/UX Designer · QA Analyst · Administrator
 
 </td>
 </tr>
@@ -59,171 +52,209 @@ Outside of tech, I direct, shoot, and edit short films and documentaries, and sh
 
 <br/>
 
-## 🧰 Technical Skills
+<h2 align="center">💼 Experience</h2>
+
+<table align="center" width="95%">
+<tr>
+<td>
+
+### 🎨 Freelance — Graphic Designer
+`2022 – Present`
+- Deliver branding, social media, and marketing design for independent clients
+- Manage full project lifecycle: concept → revisions → final delivery
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏢 New San Jose Builders Inc.
+**Software Developer · UI/UX Designer · QA Analyst · Technical Writer · Technical Support**
+`Quezon City, PH · 2025`
+- QA tested internal systems: Ticketing System, Employee Self-Service System, HRMS
+- Identified, documented, and tracked software defects to resolution
+- Authored user manuals and test case documentation
+- Provided cross-department technical support and issue resolution
+- Independently built a web-based **Venue Appointment System** during a 486-hour internship
+
+`PHP` `Node.js` `MySQL`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">🛠️ Featured Projects</h2>
+
+<table align="center" width="95%">
+
+<tr>
+<th align="left">Project</th>
+<th align="left">Role(s)</th>
+<th align="left">Stack</th>
+</tr>
+
+<tr>
+<td><b>RM's AI Inventory & E-Commerce System</b><br/><sub>Capstone · 2026</sub></td>
+<td>QA Analyst · Technical Writer · UI/UX Designer · Administrator</td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><b>MinSU VAS — Venue Appointment System</b><br/><sub>2026</sub></td>
+<td>Developer · UI/UX Designer · QA Analyst · Administrator</td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><b>iLoveMilkTea E-Commerce Kiosk</b><br/><sub>2025</sub></td>
+<td>Developer · UI/UX Designer · QA Analyst · Administrator</td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Panchitan ni Unchang — Wix (CRM) E-Commerce</b><br/><sub>2023</sub></td>
+<td>Developer · UI/UX Designer · QA Analyst · Technical Writer · Administrator</td>
+<td>
+<img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><b>MinSU Clinic System</b><br/><sub>2022</sub></td>
+<td>Developer · UI/UX Designer · QA Analyst · Technical Writer · Administrator</td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<h2 align="center">🧰 Skills</h2>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1DB954?style=flat-square&logo=javascript&logoColor=191414)
-![PHP](https://img.shields.io/badge/PHP-1DB954?style=flat-square&logo=php&logoColor=191414)
-![HTML5](https://img.shields.io/badge/HTML5-1DB954?style=flat-square&logo=html5&logoColor=191414)
-![CSS3](https://img.shields.io/badge/CSS3-1DB954?style=flat-square&logo=css3&logoColor=191414)
-![SQL](https://img.shields.io/badge/SQL-1DB954?style=flat-square&logo=mysql&logoColor=191414)
-![Node.js](https://img.shields.io/badge/Node.js-1DB954?style=flat-square&logo=nodedotjs&logoColor=191414)
-![WordPress](https://img.shields.io/badge/WordPress-1DB954?style=flat-square&logo=wordpress&logoColor=191414)
-![Wix](https://img.shields.io/badge/Wix-1DB954?style=flat-square&logo=wix&logoColor=191414)
-![Figma](https://img.shields.io/badge/Figma-1DB954?style=flat-square&logo=figma&logoColor=191414)
-![Canva](https://img.shields.io/badge/Canva-1DB954?style=flat-square&logo=canva&logoColor=191414)
-![CapCut](https://img.shields.io/badge/CapCut-1DB954?style=flat-square&logo=capcut&logoColor=191414)
-![Git](https://img.shields.io/badge/Git-1DB954?style=flat-square&logo=git&logoColor=191414)
-![GitHub](https://img.shields.io/badge/GitHub-1DB954?style=flat-square&logo=github&logoColor=191414)
+**Languages & Frameworks**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+**Platforms & Tools**
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+
+**AI Tools**
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
 
 </div>
 
-<details open>
-<summary><b>🛡️ Quality Assurance & Testing</b></summary>
 <br/>
 
-**Core:** Quality Assurance · Test Case Creation · Bug Reporting · Technical Documentation · End-User Training
-
-| Category | Coverage |
-|---|---|
-| **Levels of Testing** | Unit, Integration, System, Acceptance |
-| **Functional Testing** | Smoke, Sanity, Regression, End-to-End |
-| **Non-Functional Testing** | Performance, Load, Stress, Security, Usability |
-| **Execution Methods** | Manual & Automation Testing |
-
-</details>
-
-<details>
-<summary><b>🎧 IT Administration & Virtual Assistance</b></summary>
-<br/>
-
-IT Helpdesk Support · System/Platform Administration · Data Entry · Appointment Setting · Calendar Management
-
-</details>
-
-<details>
-<summary><b>🤖 AI & Design Tools</b></summary>
-<br/>
-
-ChatGPT · Gemini · Claude · Canva · CapCut
-
-</details>
-
-<details>
-<summary><b>👥 Professional</b></summary>
-<br/>
-
-Project Management · Team Collaboration · Client Communication · Time Management
-
-</details>
-
-<br/>
-
-## 💼 Experience
-
-### 🏢 Software Developer · QA Specialist · Technical Writer · Technical Support
-**New San Jose Builders Inc.** — Quezon City, PH &nbsp;|&nbsp; *2025 – 2026*
-
-- Developed a **Venue Appointment System** using PHP, MySQL, and Node.js
-- QA tested across the company's Ticketing, Employee Self-Service & HR Management systems
-- Documented and reported bugs, verified fixes, and authored user manuals and test cases
-- Provided technical support and troubleshooting across departments
-
-### 🎨 Graphic Designer — Freelance
-*2022 – Present*
-
-- Delivered branding, social media, and marketing design for independent clients
-- Managed projects end-to-end, from concept to final delivery
-
-<br/>
-
-## 🎓 Education
-
-**Mindoro State University** — Calapan, Oriental Mindoro, PH
-Bachelor of Science in Information Technology · **Cum Laude**, GWA 1.47 · 2022 – 2026
-Capstone Role: *Technical Writer · UI/UX Designer · QA Analyst · Administrator*
-
-<br/>
-
-## 🚀 Featured Projects
-
-| Project | Category | Stack |
-|---|---|---|
-| **RM'S: AI Inventory** — Capstone Project | AI Inventory & E-Commerce | PHP · MySQL · Node.js · AI |
-| **ILoveMilktea Kiosk** | E-Commerce / Self-Service Ordering | PHP · MySQL · Node.js |
-| **MinSU Clinic System** | Clinic & Patient Records Management | PHP · HTML · MySQL |
-| **PanChitan ni Unchang** | Wix CMS E-Commerce + PayPal | Wix CMS · PayPal |
-| **Meat Quality Detector** | AI / ML Image Classification | Python · Django · AI/ML |
-| **SLites** | Coursework — Framework Prototyping | Xianfire |
-| **MinSU VAS** | Venue Appointment Booking System | Node.js · PHP · MySQL |
-| **Brainster Quivia** | Desktop Quiz & Trivia Game | C# · Windows Forms · MySQL |
-| **MinSU Event Scheduling System** | Campus Event Scheduling | PHP · MySQL · Node.js |
-| **PanChitan ni Unchang (Lavalust)** | E-Commerce, Lavalust Framework | PHP · Lavalust · MySQL |
-
-<sub>Full case studies, screenshots, and documentation for each project are on the <a href="https://hanahmendoza-portfolio.vercel.app">live portfolio</a>.</sub>
-
-<br/>
-
-## 🎨 Design Portfolio
-
-UI/UX, branding, and visual design work spanning **web app interfaces, e-commerce ordering systems, presentation decks, book covers, event posters, and infographics** — including designs for iLoveMilkTea, MinSU VAS, PanChitan ni Unchang, E-DonateMo, and the RM's capstone system.
-
-<sub>14+ pieces viewable on the <a href="https://hanahmendoza-portfolio.vercel.app">portfolio site</a>, each with full-resolution previews and downloadable PDFs where available.</sub>
-
-<br/>
-
-## 🎬 Film & Photography
-
-**Film Production** — Director, Editor & Videographer &nbsp;|&nbsp; *2023 – Present*
-
-- 🎞️ ***Alpas*** — a short film (feature cut + trailer) exploring a young woman's quiet resilience
-- 🎥 ***On the Move With Aling Lorena*** — a documentary profiling a longtime vendor at Calapan City's public market
-
-**Photography** — personal work studying composition, light, and color through everyday scenes around Oriental Mindoro. Gallery on [@mhmcrts](https://www.instagram.com/mhmcrts/) (Instagram).
-
-<br/>
-
-## 🌱 Work Style
-
-| | |
-|---|---|
-| 🗂️ **Detail-Oriented** | Pixel-precise in design, thorough in QA — I catch what others miss. |
-| 🤝 **Collaborative** | I bridge developers, designers, and stakeholders through clear communication. |
-| 📝 **Documentation-Driven** | Good docs keep teams aligned — I treat writing as part of the product. |
-| 🔁 **Iterative Thinker** | Test, feedback, refine — whether in design, QA, or documentation. |
-
-**Tech Interests:** UI/UX Research · Design Systems · Accessibility · HCI · QA Automation · Bug Tracking · Responsive Design
-
-<br/>
-
-## 📜 Certifications
-
-![Fortinet](https://img.shields.io/badge/Fortinet-Certified%20Associate%20in%20Cybersecurity-1DB954?style=flat-square&logo=fortinet&logoColor=191414)
-![Fortinet](https://img.shields.io/badge/Fortinet-Certified%20Fundamentals%20in%20Cybersecurity-1DB954?style=flat-square&logo=fortinet&logoColor=191414)
-![Microsoft](https://img.shields.io/badge/Microsoft-Data%20Analytics%20Certificate-1DB954?style=flat-square&logo=microsoft&logoColor=191414)
-![Python](https://img.shields.io/badge/CodeChum-Python%20Programming%202-1DB954?style=flat-square&logo=python&logoColor=191414)
-![Honor](https://img.shields.io/badge/Latin%20Honor-Cum%20Laude%20%C2%B7%20GWA%201.47-f0b429?style=flat-square&logo=googlescholar&logoColor=191414)
-
-<br/>
+<h3 align="center">🧪 QA & Testing Expertise</h3>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:121212&height=3&width=1000" width="100%"/>
-
-### 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanahmendoza--portfolio.vercel.app-1DB954?style=for-the-badge&logo=vercel&logoColor=191414)](https://hanahmendoza-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/hanahmendoza78%40gmail.com-191414?style=for-the-badge&logo=gmail&logoColor=1DB954)](mailto:hanahmendoza78@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-191414?style=for-the-badge&logo=linkedin&logoColor=1DB954)](https://www.linkedin.com/in/maria-hanah-mendoza-b24301404/)
-[![GitHub](https://img.shields.io/badge/GitHub-191414?style=for-the-badge&logo=github&logoColor=1DB954)](https://github.com/mahamen)
-[![Facebook](https://img.shields.io/badge/Facebook-191414?style=for-the-badge&logo=facebook&logoColor=1DB954)](https://facebook.com/mahamenn)
-[![Instagram](https://img.shields.io/badge/Instagram-191414?style=for-the-badge&logo=instagram&logoColor=1DB954)](https://www.instagram.com/mhmcrts/)
-
-<sub>🟢 Usually replies within 24 hours</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:1DB954&height=100&section=footer" width="100%"/>
-
-<sub>© 2026 Maria Hanah G. Mendoza. All rights reserved.</sub>
+`Test Case Creation` `Bug Reporting` `Unit Testing` `Integration Testing` `System Testing` `Acceptance Testing`
+`Smoke Testing` `Sanity Testing` `Regression Testing` `End-to-End Testing`
+`Performance Testing` `Load Testing` `Stress Testing` `Security Testing` `Usability Testing`
+`Manual Testing` `Automation Testing`
 
 </div>
+
+<br/>
+
+<h2 align="center">📜 Certifications & Training</h2>
+
+<div align="center">
+
+🛡️ Fortinet Certified Associate in Cybersecurity
+🛡️ Fortinet Certified Fundamentals in Cybersecurity
+📊 Certificate in Microsoft Data Analytics
+🐍 CodeChum Python Programming 2
+
+</div>
+
+<br/>
+
+<h2 align="center">🌟 Professional Strengths</h2>
+
+<div align="center">
+
+Detail-Oriented · Documentation-Driven · Collaborative · Iterative Design Thinker · Strong Client Communication · Project Management
+
+</div>
+
+<br/>
+
+<h2 align="center">🎬 Beyond the Code</h2>
+
+<table align="center" width="90%">
+<tr>
+<td>
+
+**Film Production** — Director, Editor & Videographer
+`2023 – Present`
+
+🎥 **"Alpas"** — short film exploring a young woman's resilience (feature cut + trailer, published on YouTube)
+
+🎥 **"On the Move With Aling Lorena"** — documentary profiling a long-tenured female vendor at Calapan City's public market
+
+Cinematography, storytelling, and post-production skills that directly inform visual composition and user empathy in UI/UX design work.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hanahmendoza-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanahmendoza78@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" width="100%"/>
+
+<p align="center"><i>Thanks for stopping by — always open to new opportunities and collaborations!</i></p>
