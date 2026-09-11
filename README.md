@@ -1,6 +1,8 @@
 <div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Maria%20Hanah%20G.%20Mendoza&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Technical%20Writer%20%C2%B7%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1200&color=2D2D2D&center=true&vCenter=true&width=700&height=60&lines=Maria+Hanah+G.+Mendoza" alt="Maria Hanah G. Mendoza"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&height=35&lines=QA+Analyst+%C2%B7+UI%2FUX+Designer+%C2%B7+Technical+Writer+%C2%B7+Software+Developer" alt="QA Analyst, UI/UX Designer, Technical Writer, Software Developer"/>
 
 <br/>
 
@@ -13,7 +15,7 @@
 
 <br/>
 
-<h2>🧭 About Me</h2>
+<h2>About Me</h2>
 
 <p width="80%">
 
@@ -31,7 +33,7 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h2>🎓 Education</h2>
+<h2>Education</h2>
 
 <table width="90%">
 <tr>
@@ -40,7 +42,7 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 **Mindoro State University** — Calapan, Oriental Mindoro, PH
 *Bachelor of Science in Information Technology* — June 2026
 
-🏅 **Cum Laude** — GWA: 1.47
+**Cum Laude** — GWA: 1.47
 
 **Coursework:** Software Engineering · Web Development · Database Systems · HCI · Systems Analysis & Design · Systems Integration & Architecture · OOP · Data Structures & Algorithms · Operating Systems · Multimedia Systems
 
@@ -52,13 +54,13 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h2>💼 Experience</h2>
+<h2>Experience</h2>
 
 <table width="95%">
 <tr>
 <td>
 
-### 🎨 Freelance — Graphic Designer
+### Freelance — Graphic Designer
 `2022 – Present`
 - Deliver branding, social media, and marketing design for independent clients
 - Manage full project lifecycle: concept → revisions → final delivery
@@ -68,7 +70,7 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 <tr>
 <td>
 
-### 🏢 New San Jose Builders Inc.
+### New San Jose Builders Inc.
 **Software Developer · UI/UX Designer · QA Analyst · Technical Writer · Technical Support**
 `Quezon City, PH · 2025`
 - QA tested internal systems: Ticketing System, Employee Self-Service System, HRMS
@@ -85,7 +87,7 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h2>🛠️ Featured Projects</h2>
+<h2>Featured Projects</h2>
 
 <table width="95%">
 
@@ -150,7 +152,7 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h2>🧰 Skills</h2>
+<h2>Skills</h2>
 
 <div>
 
@@ -188,7 +190,7 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h3>🧪 QA & Testing Expertise</h3>
+<h3>QA & Testing Expertise</h3>
 
 <div>
 
@@ -201,20 +203,20 @@ Outside of tech, I direct and edit short films and documentaries — a creative 
 
 <br/>
 
-<h2>📜 Certifications & Training</h2>
+<h2>Certifications & Training</h2>
 
 <div>
 
-🛡️ Fortinet Certified Associate in Cybersecurity
-🛡️ Fortinet Certified Fundamentals in Cybersecurity
-📊 Certificate in Microsoft Data Analytics
-🐍 CodeChum Python Programming 2
+Fortinet Certified Associate in Cybersecurity
+Fortinet Certified Fundamentals in Cybersecurity
+Certificate in Microsoft Data Analytics
+CodeChum Python Programming 2
 
 </div>
 
 <br/>
 
-<h2>🌟 Professional Strengths</h2>
+<h2>Professional Strengths</h2>
 
 <div>
 
@@ -224,7 +226,7 @@ Detail-Oriented · Documentation-Driven · Collaborative · Iterative Design Thi
 
 <br/>
 
-<h2>🎬 Beyond the Code</h2>
+<h2>Beyond the Code</h2>
 
 <table width="90%">
 <tr>
@@ -233,9 +235,9 @@ Detail-Oriented · Documentation-Driven · Collaborative · Iterative Design Thi
 **Film Production** — Director, Editor & Videographer
 `2023 – Present`
 
-🎥 **"Alpas"** — short film exploring a young woman's resilience (feature cut + trailer, published on YouTube)
+**"Alpas"** — short film exploring a young woman's resilience (feature cut + trailer, published on YouTube)
 
-🎥 **"On the Move With Aling Lorena"** — documentary profiling a long-tenured female vendor at Calapan City's public market
+**"On the Move With Aling Lorena"** — documentary profiling a long-tenured female vendor at Calapan City's public market
 
 Cinematography, storytelling, and post-production skills that directly inform visual composition and user empathy in UI/UX design work.
 
@@ -245,7 +247,7 @@ Cinematography, storytelling, and post-production skills that directly inform vi
 
 <br/>
 
-<h2>📫 Let's Connect</h2>
+<h2>Let's Connect</h2>
 
 <div>
 
